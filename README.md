@@ -5,7 +5,7 @@
 This repo is a collection of documents intended to help guide a design sprint.
 It contains guidelines that should not be followed exactly.
 Each sprint should be tailored to the individual project.
-It is written by and for the thoughtbot team.
+It is written by and for the Little Kidogo team.
 
 * [Previous Sprints](Previous-Sprints)
 * [Pre-Sprint Preparation](0-Pre-Sprint)
