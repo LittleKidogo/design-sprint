@@ -165,19 +165,19 @@ review the [contributing guidelines](CONTRIBUTING.md) if you'd like to help out.
 
 ## Credits
 
-[![thoughtbot](http://images.thoughtbot.com/bourbon/thoughtbot-logo.svg)](http://thoughtbot.com)
+![littlekidogo](https://user-images.githubusercontent.com/897731/44727568-a0abb480-aada-11e8-9917-4538c75a7b52.png)
 
-This repo is maintained and funded by [thoughtbot, inc](http://thoughtbot.com).
-Tweet your questions or suggestions to
-[@thoughtbot](https://twitter.com/thoughtbot)
-and while you're at it follow us too.
+
+This repo is maintained and funded by [littlekidogo](https://littlekidogo.co.za).
+Send your questions or suggestions to
+[greetings@littlekidogo.co.za](greetings@littlekidogo.co.za)
 
 Looking to run your own design sprint but want help from someone who has
-experience running them before? [Hire us.](http://thoughtbot.com/hire-us)
+experience running them before? [Work With Us.](https://littlekidogo.co.za)
 
 ## License
 
-Copyright © 2015 [thoughtbot, inc](http://thoughtbot.com).
+Copyright © 2018 [littlekidogo](https://littlekidogo.co.za).
 The information contained in Design Sprint is free,
 and may be redistributed under the terms specified in the
 [license](LICENSE.md).
